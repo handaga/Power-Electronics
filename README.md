@@ -4,7 +4,7 @@ class note 2017
 
 # Assigment-01:
 
-Design a switching power supply (component & circuit)  with these requirements:
+Design a switching power supply (component & circuit)  with these requirements: (fs = 40k Hz)
 
 	a) Voltage Output = -5 V (dc)
 	b) Load Resistance ( RL ) = 2 Ohm  (Imax = 2.5A)
